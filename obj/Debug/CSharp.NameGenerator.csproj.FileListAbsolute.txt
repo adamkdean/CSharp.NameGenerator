@@ -1,4 +1,0 @@
-C:\Users\Adam\Dropbox\Coding\Projects\CSharp.NameGenerator\bin\Debug\CSharp.NameGenerator.dll
-C:\Users\Adam\Dropbox\Coding\Projects\CSharp.NameGenerator\bin\Debug\CSharp.NameGenerator.pdb
-C:\Users\Adam\Dropbox\Coding\Projects\CSharp.NameGenerator\obj\Debug\CSharp.NameGenerator.dll
-C:\Users\Adam\Dropbox\Coding\Projects\CSharp.NameGenerator\obj\Debug\CSharp.NameGenerator.pdb
