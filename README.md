@@ -25,3 +25,9 @@ For example, here are 20 names and the pattern used:
     VVC VVC - Consonants: krs - Eus Aas, Eek Eer, Oos Ius, Ies Our, Aik Iis, Ees Iar, Iuk Aos, Ies Aar, Uas Oek, Uis Ear, Ios Eus, Uer Ias, Iir Aer, Iar Oor, Uok Oir, Ias Ois, Uar Ues, Uis Uas, Iur Eok, Euk Iek
 
     CVCVVC - Vowels: ou, Consonants: slnrt - Toroot, Susuos, Lotuus, Nonoor, Soluor, Rotoos, Sunous, Rurool, Luluol, Rusuut, Nonour, Loluor, Rolous, Sutour, Nunoon, Sotoul, Rosoot, Tuloor, Sosuus, Suruus
+
+ ## N.B.
+
+ Names come back in lowercase by default, but if you wish to capitalise them like above, the following works great:
+
+     var result = System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(result);
