@@ -26,8 +26,10 @@ For example, here are 20 names and the pattern used:
 
     CVCVVC - Vowels: ou, Consonants: slnrt - Toroot, Susuos, Lotuus, Nonoor, Soluor, Rotoos, Sunous, Rurool, Luluol, Rusuut, Nonour, Loluor, Rolous, Sutour, Nunoon, Sotoul, Rosoot, Tuloor, Sosuus, Suruus
 
- ## N.B.
+## N.B.
 
- Names come back in lowercase by default, but if you wish to capitalise them like above, the following works great:
+Names come back in lowercase by default, but if you wish to capitalise them like above, the following works great:
 
-     var result = System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(result);
+    var result = System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(result);
+
+Hope you enjoy using this as much as I enjoyed making it.
