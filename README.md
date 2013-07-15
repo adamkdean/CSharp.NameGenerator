@@ -28,7 +28,7 @@ For example, here are 20 names and the pattern used:
 
 ## N.B.
 
-Names come back in lowercase by default, but if you wish to capitalise them like above, the following works great:
+Names return in lowercase by default, but if you wish to capitalise them, the following works great:
 
     var result = System.Globalization.CultureInfo.CurrentCulture.TextInfo.ToTitleCase(result);
 
